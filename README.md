@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:C70039&height=200&section=header&text=Ngô%20Trung%20Chiến%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </picture>
 
-# 👋 Xin chào, mình là Ngô Trung Chiến
+# 👋 Xin chào, mình là Đặng Thanh Bình
 **Tương lai sẽ quyết định** · Fullstack Developer | TypeScript | Node.js | React  
 📍 Hà Nội, Việt Nam · 💼 Open to work · 📫 [Resume (PDF)](./CV.pdf)  
 
