@@ -60,15 +60,20 @@
 ---
 
 ## 📌 Dự án nổi bật
-### 🚀 Love Maps - 🌍 Ứng dụng bản đồ tương tác: tìm kiếm, filter, lưu yêu thích  
-- **Tech:** React, Leaflet, Firebase  
-- 🔗 [Demo](https://binhptit2810.github.io/Love_Maps-01/) · [Source](https://github.com/binhptit2810/Love_Maps-01)
+
+### 🛒 E-Commerce Website
+- **Tech:** React, Spring Boot, MySQL, JWT, Bootstrap
+- **Chức năng chính:**
+  - Đăng ký, đăng nhập và phân quyền người dùng
+  - Quản lý sản phẩm và danh mục
+  - Giỏ hàng và đặt hàng trực tuyến
+  - Theo dõi trạng thái đơn hàng
+  - Trang quản trị quản lý sản phẩm và đơn hàng
+- 🔗 [Live Demo](https://shop-frontend-lovat.vercel.app/register)
 
 | Preview | Mô tả nhanh |
 |---|---|
-| <img src="./assets/lovemap-snap.png" width="300" /> | **Love Maps**: Giao diện bản đồ hiện đại, hỗ trợ tìm kiếm & đánh dấu địa điểm. |
-
----
+| <img src="./assets/ecommerce-snap.png" width="300" /> | Website thương mại điện tử hoàn chỉnh với giao diện hiện đại, hỗ trợ mua sắm trực tuyến và quản trị hệ thống. |
 
 ## 🏆 Thành tựu & Badge
 <p align="center">
