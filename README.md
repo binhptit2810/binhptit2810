@@ -69,7 +69,7 @@
   - Giỏ hàng và đặt hàng trực tuyến
   - Theo dõi trạng thái đơn hàng
   - Trang quản trị quản lý sản phẩm và đơn hàng
-- 🔗 [Live Demo](https://shop-frontend-lovat.vercel.app/register)
+- 🔗 [Live Demo](https://shop-backend-delta.vercel.app/)
 
 | Preview | Mô tả nhanh |
 |---|---|
