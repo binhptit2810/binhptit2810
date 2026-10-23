@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:binhptit2810@gmail.com"><img src="https://img.shields.io/badge/Email-binhbadboy2810%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/binhptit2810"><img src="https://img.shields.io/badge/GitHub-binhptit2810-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/binhptit2810/"><img src="https://img.shields.io/badge/Instagram-binhptit2810-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/binhptit2810/"><img src="https://img.shields.io/badge/Instagram-binhdang493-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://facebook.com/binhptit2810"><img src="https://img.shields.io/badge/Facebook-binhptit2810-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
 
